@@ -1,4 +1,4 @@
-This script if useful for migrating the keys from one db in redis to another.
+This script is useful for migrating the keys from one db in redis to another.
 you can migrate from one ip to another as well
 
 Steps
